@@ -1,3 +1,9 @@
+/*
+ * CircularQueue의 front는 항상 비어있는 것인가?
+ * 오랜만에 다시 하려고 하니까 개념이 헷갈린다.
+ * 한 번 찾아보는 것이 좋을 것 같음.
+ * */
+
 package arrayQueue;
 
 public class ArrayQueue {
